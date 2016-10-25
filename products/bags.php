@@ -14,14 +14,14 @@
 
 <body>
   <?php
-  define('DOCROOT', realpath(dirname(__FILE__)).'/');
-  include(DOCROOT . '/includes/upper-body.php');?>
+  include '../init.php';
+  include ROOT_DIR . '/includes/upper-body.php';?>
   
   <div class="panel panel-default">
     <div class="panel-body">
       <ol class="breadcrumb">
         <li><a href="/">Home</a></li>
-        <li><a href="/products">Products</a></li>
+        <li><a href="/all-products">Products</a></li>
         <li class="active">Bags</li>
       </ol>
 
@@ -32,6 +32,6 @@
   </div>
   
   
-  <?php include(DOCROOT . 'includes/lower-body.php');?>
+  <?php include ROOT_DIR . '/includes/lower-body.php';?>
 </body>
 </html>

@@ -14,8 +14,8 @@
 
 <body>
   <?php
-  define('DOCROOT', realpath(dirname(__FILE__)).'/');
-  include(DOCROOT . '/includes/upper-body.php');?>
+  include 'init.php';
+  include ROOT_DIR . '/includes/upper-body.php';?>
   
   <div class="panel panel-default">
     <div class="panel-body">
@@ -30,6 +30,6 @@
     </div>
   </div>
   
-  <?php include(DOCROOT . 'includes/lower-body.php');?>
+  <?php include ROOT_DIR . '/includes/lower-body.php';?>
 </body>
 </html>

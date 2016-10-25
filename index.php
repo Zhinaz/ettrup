@@ -15,8 +15,8 @@
 
 <body>
   <?php
-  define('DOCROOT', realpath(dirname(__FILE__)).'/');
-  include(DOCROOT . 'includes/upper-body.php');?>
+  include 'init.php';
+  include ROOT_DIR . '/includes/upper-body.php';?>
 
     <div class="jumbotron">
       <div class="container">
