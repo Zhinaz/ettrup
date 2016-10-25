@@ -26,6 +26,39 @@
       </ol>
 
       
+      <div class="panel panel-primary">
+        <div class="panel-body">
+          
+          <div class="media">
+            <div class="media-left">
+              <a href="#">
+                <?php $imgSmallBackpack = ROOT_URL . '/images/BitchBeTrippin.png' ;?>
+                <img class="media-object" src="<?php echo $imgSmallBackpack ;?>" height="140" width="140">
+              </a>
+            </div>
+            <div class="media-body">
+              <h4 class="media-heading">Small backpack</h4>
+              <p>A small back for everyday usage.</p>
+              <a class="btn btn-default btn-sm" role="button" href="#">Price: 900 DKK</a>
+            </div>
+          </div>
+          
+          <div class="media">
+            <div class="media-left">
+              <a href="#">
+                <?php $imgHandbag = ROOT_URL . '/images/tank-feels.gif' ;?>
+                <img class="media-object" src="<?php echo $imgHandbag ;?>" height="140" width="140">
+              </a>
+            </div>
+            <div class="media-body">
+              <h4 class="media-heading">Handbag</h4>
+              <p>A small back for everyday usage.</p>
+              <a class="btn btn-default btn-sm" role="button" href="#">Price: 1600 DKK</a>
+            </div>
+          </div>
+          
+        </div>
+      </div>
       
 
     </div>

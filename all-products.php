@@ -24,8 +24,25 @@
         <li class="active">Products</a></li>
       </ol>
 
+      <div class="panel panel-primary">
+        <div class="panel-body">
       
-      
+          <div class="media">
+            <div class="media-left">
+              <a href="#">
+                <?php $imgSmallBackpack = ROOT_URL . '/images/BitchBeTrippin.png' ;?>
+                <img class="media-object" src="<?php echo $imgSmallBackpack ;?>" height="140" width="140">
+              </a>
+            </div>
+            <div class="media-body">
+              <h4 class="media-heading">Bags</h4>
+              <p>Backpacks and handbags of various kind.</p>
+              <a class="btn btn-default btn-sm" role="button" href="/products/bags">See more</a>
+            </div>
+          </div>
+          
+        </div>
+      </div>
 
     </div>
   </div>
