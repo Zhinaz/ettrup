@@ -7,13 +7,15 @@
   <title>Bags</title>
   
   <link rel="shortcut icon" href="/images/favicon.ico"/>
-  <link rel="stylesheet" type="text/css" href="dist/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="/dist/css/bootstrap.min.css">
   <!-- Optional Bootstrap theme -->
-  <link rel="stylesheet" href="dist/css/custom-bootstrap.css">
+  <link rel="stylesheet" href="/dist/css/custom-bootstrap.css">
 </head>
 
 <body>
-  <?php include 'includes/upper-body.php';?>
+  <?php
+  define('DOCROOT', realpath(dirname(__FILE__)).'/');
+  include(DOCROOT . '/includes/upper-body.php');?>
   
   <div class="panel panel-default">
     <div class="panel-body">
@@ -30,6 +32,6 @@
   </div>
   
   
-  <?php include 'includes/lower-body.php';?>
+  <?php include(DOCROOT . 'includes/lower-body.php');?>
 </body>
 </html>

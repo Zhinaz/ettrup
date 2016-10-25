@@ -22,9 +22,9 @@
         <li class="dropdown">
           <a href="/products" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Products<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="/products">All products</a></li>
+            <li><a href="/all-products">All products</a></li>
             <li role="separator" class="divider"></li>
-            <li><a href="/bags">Bags</a></li>
+            <li><a href="/products/bags">Bags</a></li>
           </ul>
         </li>
       </ul>
