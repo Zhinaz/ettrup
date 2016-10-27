@@ -30,7 +30,7 @@
           <div class="media">
             <div class="media-left">
               <a href="#">
-                <?php $imgSmallBackpack = ROOT_URL . '/images/BitchBeTrippin.png' ;?>
+                <?php $imgSmallBackpack = ROOT_URL . '/images/taskekategorithumb.png' ;?>
                 <img class="media-object" src="<?php echo $imgSmallBackpack ;?>" height="140" width="140">
               </a>
             </div>
@@ -38,6 +38,20 @@
               <h4 class="media-heading">Bags</h4>
               <p>Backpacks and handbags of various kind.</p>
               <a class="btn btn-default btn-sm" role="button" href="/products/bags">See more</a>
+            </div>
+          </div>
+          
+          <div class="media">
+            <div class="media-left">
+              <a href="#">
+                <?php $imgAccessories = ROOT_URL . '/images/accessoriesthumb.png' ;?>
+                <img class="media-object" src="<?php echo $imgAccessories ;?>" height="140" width="140">
+              </a>
+            </div>
+            <div class="media-body">
+              <h4 class="media-heading">Accessories</h4>
+              <p>Accessories of various kind.</p>
+              <a class="btn btn-default btn-sm" role="button" href="/products/accessories">See more</a>
             </div>
           </div>
           

@@ -20,20 +20,13 @@
 
     <div class="jumbotron">
       <div class="container">
-        <h1>Aalborg</h1>
-        <p>The greatest drinking game ever invented!</p>
-        <p><a class="btn btn-default btn-lg" href="/aalborg" role="button">How to play</a></p>
+        <h1>Products</h1>
+        <p>All custom-made designs by Julie Ettrup</p>
+        <p><a class="btn btn-default btn-lg" href="/all-products" role="button">See products</a></p>
       </div>
     </div>
   
-    <div class="jumbotron">
-      <div class="container">
-        <h1>Hello, world!</h1>
-        <p>...</p>
-        <p><a class="btn btn-default btn-lg" href="#" role="button">Learn more</a></p>
-      </div>
-    </div>
 
-  <?php include(DOCROOT . 'includes/lower-body.php');?>
+  <?php include ROOT_DIR . '/includes/lower-body.php';?>
 </body>
 </html>

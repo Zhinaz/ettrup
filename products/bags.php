@@ -13,7 +13,7 @@
 </head>
 
 <body>
-  <?php
+  <?php 
   include '../init.php';
   include ROOT_DIR . '/includes/upper-body.php';?>
   
@@ -32,7 +32,7 @@
           <div class="media">
             <div class="media-left">
               <a href="#">
-                <?php $imgSmallBackpack = ROOT_URL . '/images/BitchBeTrippin.png' ;?>
+                <?php $imgSmallBackpack = ROOT_URL . '/images/taske1thumb.png' ;?>
                 <img class="media-object" src="<?php echo $imgSmallBackpack ;?>" height="140" width="140">
               </a>
             </div>
@@ -46,7 +46,7 @@
           <div class="media">
             <div class="media-left">
               <a href="#">
-                <?php $imgHandbag = ROOT_URL . '/images/tank-feels.gif' ;?>
+                <?php $imgHandbag = ROOT_URL . '/images/taske2thumb.png' ;?>
                 <img class="media-object" src="<?php echo $imgHandbag ;?>" height="140" width="140">
               </a>
             </div>
