@@ -4,7 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <title>Bags</title>
+  <title>Tasker</title>
   
   <link rel="shortcut icon" href="/images/favicon.ico"/>
   <link rel="stylesheet" type="text/css" href="/dist/css/bootstrap.min.css">
@@ -20,9 +20,9 @@
   <div class="panel panel-default">
     <div class="panel-body">
       <ol class="breadcrumb">
-        <li><a href="/">Home</a></li>
-        <li><a href="/all-products">Products</a></li>
-        <li class="active">Bags</li>
+        <li><a href="/">Hjem</a></li>
+        <li><a href="/all-products">Produkter</a></li>
+        <li class="active">Tasker</li>
       </ol>
 
       
@@ -37,9 +37,9 @@
               </a>
             </div>
             <div class="media-body">
-              <h4 class="media-heading">Small backpack</h4>
-              <p>A small back for everyday usage.</p>
-              <a class="btn btn-default btn-sm" role="button" href="#">Price: 900 DKK</a>
+              <h4 class="media-heading">Pung</h4>
+              <p>Yndig og fin der passer ned i en mindre taske.</p>
+              <a class="btn btn-default btn-sm" role="button" href="#">Price: .. DKK</a>
             </div>
           </div>
           
@@ -51,9 +51,9 @@
               </a>
             </div>
             <div class="media-body">
-              <h4 class="media-heading">Handbag</h4>
-              <p>A small back for everyday usage.</p>
-              <a class="btn btn-default btn-sm" role="button" href="#">Price: 1600 DKK</a>
+              <h4 class="media-heading">Håndtaske</h4>
+              <p>Super størrelse til en shoppetur.</p>
+              <a class="btn btn-default btn-sm" role="button" href="#">Price: .. DKK</a>
             </div>
           </div>
           

@@ -20,8 +20,8 @@
   <div class="panel panel-default">
     <div class="panel-body">
       <ol class="breadcrumb">
-        <li><a href="/">Home</a></li>
-        <li><a href="/all-products">Products</a></li>
+        <li><a href="/">Hjem</a></li>
+        <li><a href="/all-products">Produkter</a></li>
         <li class="active">Accessories</li>
       </ol>
 

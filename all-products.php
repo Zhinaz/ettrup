@@ -4,7 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <title>Products</title>
+  <title>Produkter</title>
   
   <link rel="shortcut icon" href="/images/favicon.ico"/>
   <link rel="stylesheet" type="text/css" href="dist/css/bootstrap.min.css">
@@ -20,8 +20,8 @@
   <div class="panel panel-default">
     <div class="panel-body">
       <ol class="breadcrumb">
-        <li><a href="/">Home</a></li>
-        <li class="active">Products</a></li>
+        <li><a href="/">Hjem</a></li>
+        <li class="active">Produkter</a></li>
       </ol>
 
       <div class="panel panel-primary">
@@ -35,8 +35,8 @@
               </a>
             </div>
             <div class="media-body">
-              <h4 class="media-heading">Bags</h4>
-              <p>Backpacks and handbags of various kind.</p>
+              <h4 class="media-heading">Tasker</h4>
+              <p>Tasker og punge i alle størrelser.</p>
               <a class="btn btn-default btn-sm" role="button" href="/products/bags">See more</a>
             </div>
           </div>
@@ -50,7 +50,7 @@
             </div>
             <div class="media-body">
               <h4 class="media-heading">Accessories</h4>
-              <p>Accessories of various kind.</p>
+              <p>Alverdens slags accessories.</p>
               <a class="btn btn-default btn-sm" role="button" href="/products/accessories">See more</a>
             </div>
           </div>

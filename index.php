@@ -20,8 +20,8 @@
 
     <div class="jumbotron">
       <div class="container">
-        <h1>Products</h1>
-        <p>All custom-made designs by Julie Ettrup</p>
+        <h1>Produkter</h1>
+        <p>Alle custom-made designs af Julie Ettrup</p>
         <p><a class="btn btn-default btn-lg" href="/all-products" role="button">See products</a></p>
       </div>
     </div>
